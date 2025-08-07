@@ -11,3 +11,10 @@ This is my first hands-on project on AWS where I:
 
 ## 🔜 What's Next?
 I'll be hosting a static website on this Windows instance soon!
+
+---
+
+## 🔗 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/hasir-sayyed-b16520245?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
+
